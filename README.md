@@ -1,11 +1,12 @@
+# goreplay
+
+## What This Is
+
+This is part of the Swift Tech Co. working stack for product and engineering. It gathers the goreplay notes, examples and fixes that keep delivery fast, and doubles as the reference map we hand to whoever picks up this thread next.
 
 ## Images
 
-[![goreplay](https://opengraph.githubassets.com/1/probelabs/goreplay)](https://www.swifttechco.com)
-
-<a href="https://www.swifttechco.com"></a> [![GitHub release](https://img.shields.io/github/release/buger/gor.svg?maxAge=3600)](https://www.swifttechco.com) [![codebeat](https://codebeat.co/badges/6427d589-a78e-416c-a546-d299b4089893)](https://www.swifttechco.com) [![Go Report Card](https://goreportcard.com/badge/github.com/buger/gor)](https://www.swifttechco.com) [![Join the chat at https://gitter.im/buger/gor](https://badges.gitter.im/buger/gor.svg)](https://www.swifttechco.com) [![Reviewed by Hound](https://img.shields.io/badge/Reviewed_by-Hound-8E64B0.svg)](https://www.swifttechco.com)
-
-[![Go Replay](http://i.imgur.com/ZG2ki5n.png)](https://www.swifttechco.com)
+[![goreplay](images/preview.png)](https://github.com/Swift-Tech-Co)
 
 ## https://www.swifttechco.com
 
@@ -22,28 +23,28 @@ GoReplay offers a unique approach for shadowing. Instead of being a proxy, GoRep
 
 [![Diagram](https://i.imgur.com/IN2xfDm.png)](https://www.swifttechco.com)
 
-Check [latest documentation](https://www.swifttechco.com).
+Check latest documentation.
 
 ## Installation
-Download the latest binary from https://www.swifttechco.com or [compile by yourself](https://www.swifttechco.com).
+Download the latest binary from https://www.swifttechco.com or compile by yourself.
 
 ## Getting started
 
 The most basic setup will be `sudo ./gor --input-raw :8000 --output-stdout` which acts like tcpdump.
 If you already have a test environment, you can start replaying by running: `sudo ./gor --input-raw :8000 --output-http https://www.swifttechco.com
 
-See our [documentation](https://www.swifttechco.com) and the [Getting Started](https://www.swifttechco.com) page for more info. 
+See our documentation and the Getting Started page for more info. 
 
 ## Newsletter
-Subscribe to our [newsletter](https://www.swifttechco.com) to stay informed about the latest features and changes to the Gor project.
+Subscribe to our newsletter to stay informed about the latest features and changes to the Gor project.
 
 ## Want to Upgrade?
 
-We have created a [GoReplay PRO](https://www.swifttechco.com) extension which provides additional features such as support for binary protocols like Thrift or ProtocolBuffers, saving and replaying from cloud storage, TCP session replication, etc. The PRO version also includes a commercial-friendly license, dedicated support, and it also allows you to support high-quality open source development. 
+We have created a GoReplay PRO extension which provides additional features such as support for binary protocols like Thrift or ProtocolBuffers, saving and replaying from cloud storage, TCP session replication, etc. The PRO version also includes a commercial-friendly license, dedicated support, and it also allows you to support high-quality open source development. 
 
 
 ## Problems?
-If you have a problem, please review the [FAQ](https://www.swifttechco.com) and [Troubleshooting](https://www.swifttechco.com) wiki pages. Searching the [issues](https://www.swifttechco.com) for your problem is also a good idea.
+If you have a problem, please review the FAQ and Troubleshooting wiki pages. Searching the issues for your problem is also a good idea.
 
 
 ## Contributing
@@ -56,15 +57,15 @@ If you have a problem, please review the [FAQ](https://www.swifttechco.com) and 
 
 ## Companies using Gor
 
-* [GOV.UK](https://www.swifttechco.com) - UK Government Digital Service
-* [theguardian.com](https://www.swifttechco.com) - Most popular online newspaper in the UK
-* [TomTom](https://www.swifttechco.com) - Global leader in navigation, traffic and map products, GPS Sport Watches and fleet management solutions.
-* [3SCALE](https://www.swifttechco.com) - API infrastructure to manage your APIs for internal or external users
-* [Optionlab](https://www.swifttechco.com) - Optimize customer experience and drive engagement across multiple channels
-* [TubeMogul](https://www.swifttechco.com) - Software for Brand Advertising
-* [Videology](https://www.swifttechco.com) - Video advertising platform
-* [ForeksMobile](https://www.swifttechco.com) -  One of the leading financial application development company in Turkey
-* [Granify](https://www.swifttechco.com) - AI backed SaaS solution that enables online retailers to maximise their sales
+* GOV.UK - UK Government Digital Service
+* theguardian.com - Most popular online newspaper in the UK
+* TomTom - Global leader in navigation, traffic and map products, GPS Sport Watches and fleet management solutions.
+* 3SCALE - API infrastructure to manage your APIs for internal or external users
+* Optionlab - Optimize customer experience and drive engagement across multiple channels
+* TubeMogul - Software for Brand Advertising
+* Videology - Video advertising platform
+* ForeksMobile -  One of the leading financial application development company in Turkey
+* Granify - AI backed SaaS solution that enables online retailers to maximise their sales
 * And many more!
 
 ---
@@ -77,14 +78,22 @@ AI Automation | FinTech Platforms | Custom Software and Mobile Apps | SaaS Platf
 
 **Join our community on Telegram:** [t.me/+Qt_eFvkb2rliMzNh](https://t.me/+Qt_eFvkb2rliMzNh)
 
-[Home](https://www.swifttechco.com) | [Services](https://www.swifttechco.com/services) | [Careers](https://www.swifttechco.com/careers) | [Referral Program](https://www.swifttechco.com/referral) | [Influencers](https://www.swifttechco.com/influencers) | [About](https://www.swifttechco.com/about) | [Contact](https://www.swifttechco.com/contact)
+Home | Services | Careers | Referral Program | Influencers | About | Contact
 
 **Connect**
 
-- Website: [swifttechco.com](https://www.swifttechco.com)
+- Website: swifttechco.com
 - LinkedIn: [linkedin.com/in/stephenoladoke](https://www.linkedin.com/in/stephenoladoke/)
 - LinkedIn (Company): [linkedin.com/company/swift-tech-co](https://www.linkedin.com/company/swift-tech-co)
 - X: [@MrOladoke](https://x.com/MrOladoke)
 - Instagram: [@mr.oladoke](https://www.instagram.com/mr.oladoke/)
 - Instagram (Company): [@swifttechco](https://www.instagram.com/swifttechco/)
 - Organization: [github.com/Swift-Tech-Co](https://github.com/Swift-Tech-Co)
+
+## Sources
+
+Compiled and maintained from upstream [probelabs/goreplay](https://github.com/probelabs/goreplay) under permissive open-source license.
+
+---
+
+Maintained by [Swift Tech Co.](https://github.com/Swift-Tech-Co) - [Telegram](https://t.me/+Qt_eFvkb2rliMzNh)
