@@ -6,9 +6,9 @@ This is part of the Swift Tech Co. working stack for product and engineering. It
 
 ## Images
 
-[![goreplay](images/preview.png)](https://github.com/Swift-Tech-Co)
+[![goreplay](images/preview.png)](https://github.com/Swift-Tech-Co/goreplay)
 
-## https://www.swifttechco.com
+## https://github.com/Swift-Tech-Co/goreplay
 
 GoReplay is an open-source network monitoring tool which can record your live traffic and use it for shadowing, load testing, monitoring and detailed analysis.
 
@@ -18,20 +18,19 @@ As your application grows, the effort required to test it also grows exponential
 
 GoReplay increases your confidence in code deployments, configuration and infrastructure changes.
 
-
 GoReplay offers a unique approach for shadowing. Instead of being a proxy, GoReplay listens in the background for traffic on your network interfaces, requiring no changes in your production infrastructure, other than running GoReplay daemon on the same machine as your service.
 
-[![Diagram](https://i.imgur.com/IN2xfDm.png)](https://www.swifttechco.com)
+[![Diagram](https://i.imgur.com/IN2xfDm.png)](https://github.com/Swift-Tech-Co/goreplay)
 
 Check latest documentation.
 
 ## Installation
-Download the latest binary from https://www.swifttechco.com or compile by yourself.
+Download the latest binary from https://github.com/Swift-Tech-Co/goreplay or compile by yourself.
 
 ## Getting started
 
 The most basic setup will be `sudo ./gor --input-raw :8000 --output-stdout` which acts like tcpdump.
-If you already have a test environment, you can start replaying by running: `sudo ./gor --input-raw :8000 --output-http https://www.swifttechco.com
+If you already have a test environment, you can start replaying by running: `sudo ./gor --input-raw :8000 --output-http https://github.com/Swift-Tech-Co/goreplay
 
 See our documentation and the Getting Started page for more info. 
 
@@ -42,10 +41,8 @@ Subscribe to our newsletter to stay informed about the latest features and chang
 
 We have created a GoReplay PRO extension which provides additional features such as support for binary protocols like Thrift or ProtocolBuffers, saving and replaying from cloud storage, TCP session replication, etc. The PRO version also includes a commercial-friendly license, dedicated support, and it also allows you to support high-quality open source development. 
 
-
 ## Problems?
 If you have a problem, please review the FAQ and Troubleshooting wiki pages. Searching the issues for your problem is also a good idea.
-
 
 ## Contributing
 
@@ -82,13 +79,21 @@ Home | Services | Careers | Referral Program | Influencers | About | Contact
 
 **Connect**
 
-- Website: swifttechco.com
+- Website: https://github.com/Swift-Tech-Co/goreplay
 - LinkedIn: [linkedin.com/in/stephenoladoke](https://www.linkedin.com/in/stephenoladoke/)
 - LinkedIn (Company): [linkedin.com/company/swift-tech-co](https://www.linkedin.com/company/swift-tech-co)
 - X: [@MrOladoke](https://x.com/MrOladoke)
 - Instagram: [@mr.oladoke](https://www.instagram.com/mr.oladoke/)
 - Instagram (Company): [@swifttechco](https://www.instagram.com/swifttechco/)
 - Organization: [github.com/Swift-Tech-Co](https://github.com/Swift-Tech-Co)
+
+## Sources
+
+Compiled and maintained from upstream [probelabs/goreplay](https://github.com/probelabs/goreplay) under permissive open-source license.
+
+---
+
+Maintained by [Swift Tech Co.](https://github.com/Swift-Tech-Co) - [Telegram](https://t.me/+Qt_eFvkb2rliMzNh)
 
 ## Sources
 
